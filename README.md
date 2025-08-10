@@ -1,6 +1,4 @@
-Here’s your README in a **single copy-paste block** exactly as you can drop into `README.md`:
 
-```
 # 🧮 Console Calculator (C# .NET)
 
 A simple **C# .NET console-based calculator** that supports basic arithmetic and advanced operations like modulus, exponentiation, and square root. Created by **Naveed (Code Holder)**.
@@ -52,4 +50,4 @@ The result of 12 + 5 is: 17
 
 ## 📜 License
 This project is licensed under the MIT License — feel free to use and modify.
-```
+
